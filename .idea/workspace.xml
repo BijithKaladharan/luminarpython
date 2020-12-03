@@ -11,9 +11,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0ab1794-3c09-46c0-8201-b962c9bc49f8" name="Default Changelist" comment="">
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/ethilcheyuu/leastpositivenumber.py" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/ethilcheyuu/secondlargest.py" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/ethilcheyuu/sorting.py" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/ethilcheyuu/testing.py" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/file_input_output/cricket.py" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/file_input_output/data" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/file_input_output/file_read_operation_without_duplication.py" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/file_input_output/filer_read_operation.py" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/file_input_output/names" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/file_input_output/passed" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/file_input_output/print_failed_program.py" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/file_input_output/text" afterDir="false" />
       <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/.idea/workspace.xml" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/ethilcheyuu/fact.py" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/ethilcheyuu/fact.py" afterDir="false" />
-      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/flowcontrols/loopingprograms/assesmentquestion.py" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/flowcontrols/loopingprograms/assesmentquestion.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,8 +49,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.leastpositive">
-    <configuration name="leastpositive" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.cricket">
+    <configuration name="cricket" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="luminar technolab" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -48,11 +58,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/pythoncourse/listprogram" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/file_input_output" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/pythoncourse/listprogram/leastpositive.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/file_input_output/cricket.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -61,7 +71,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="listprogram1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="file_read_operation_without_duplication" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="luminar technolab" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,11 +79,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/pythoncourse" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/file_input_output" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/pythoncourse/listprogram1.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/file_input_output/file_read_operation_without_duplication.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="filer_read_operation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="luminar technolab" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/file_input_output" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/file_input_output/filer_read_operation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="firstrecursivechar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="luminar technolab" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/pythoncourse/my_dictionary" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/pythoncourse/my_dictionary/firstrecursivechar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,7 +155,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pattern2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="print_failed_program" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="luminar technolab" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,53 +163,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/pythoncourse/listprogram" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/file_input_output" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/pythoncourse/listprogram/pattern2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pattern3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="luminar technolab" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/pythoncourse/listprogram" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/pythoncourse/listprogram/pattern3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="patternlist" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="luminar technolab" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/pythoncourse/listprogram" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/pythoncourse/listprogram/patternlist.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/file_input_output/print_failed_program.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,20 +177,20 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.cricket" />
+      <item itemvalue="Python.file_read_operation_without_duplication" />
+      <item itemvalue="Python.filer_read_operation" />
+      <item itemvalue="Python.firstrecursivechar" />
       <item itemvalue="Python.main" />
-      <item itemvalue="Python.listprogram1" />
-      <item itemvalue="Python.patternlist" />
-      <item itemvalue="Python.pattern2" />
-      <item itemvalue="Python.pattern3" />
-      <item itemvalue="Python.leastpositive" />
+      <item itemvalue="Python.print_failed_program" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.leastpositive" />
-        <item itemvalue="Python.pattern3" />
-        <item itemvalue="Python.pattern2" />
-        <item itemvalue="Python.patternlist" />
-        <item itemvalue="Python.listprogram1" />
+        <item itemvalue="Python.cricket" />
+        <item itemvalue="Python.print_failed_program" />
+        <item itemvalue="Python.file_read_operation_without_duplication" />
+        <item itemvalue="Python.filer_read_operation" />
+        <item itemvalue="Python.firstrecursivechar" />
       </list>
     </recent_temporary>
   </component>
@@ -212,26 +222,34 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="14" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1606026898636" />
-    <state width="1328" height="179" key="GridCell.Tab.0.bottom" timestamp="1606451663936">
+    <state x="453" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606999000589">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1328" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606451663936" />
-    <state width="1328" height="179" key="GridCell.Tab.0.center" timestamp="1606451663936">
+    <state x="453" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1606999000589" />
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1607001754077">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1328" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606451663936" />
-    <state width="1328" height="179" key="GridCell.Tab.0.left" timestamp="1606451663936">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607001754077" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1607001754077">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1328" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606451663936" />
-    <state width="1328" height="179" key="GridCell.Tab.0.right" timestamp="1606451663936">
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1607001754077" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1607001754077">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1328" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606451663936" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1607001754077" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1607001754077">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607001754077" />
     <state x="184" y="9" key="SettingsEditor" timestamp="1606051184394">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1606051184394" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1606908407563">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1606908407563" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
