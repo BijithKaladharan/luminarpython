@@ -11,18 +11,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0ab1794-3c09-46c0-8201-b962c9bc49f8" name="Default Changelist" comment="">
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/ethilcheyuu/leastpositivenumber.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/ethilcheyuu/secondlargest.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/ethilcheyuu/sorting.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/ethilcheyuu/testing.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/file_input_output/cricket.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/file_input_output/data" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/file_input_output/file_read_operation_without_duplication.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/file_input_output/filer_read_operation.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/file_input_output/names" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/file_input_output/passed" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/file_input_output/print_failed_program.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/file_input_output/text" afterDir="false" />
       <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/.idea/workspace.xml" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,8 +37,29 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.cricket">
-    <configuration name="cricket" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.covid_analysis">
+    <configuration name="basic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="luminar technolab" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/ethilcheyuu" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/ethilcheyuu/basic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="covid_analysis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="luminar technolab" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,7 +71,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/file_input_output/cricket.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/file_input_output/covid_analysis.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,7 +80,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="file_read_operation_without_duplication" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="employee_fun" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="luminar technolab" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,11 +88,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/file_input_output" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/different_functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/file_input_output/file_read_operation_without_duplication.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/different_functions/employee_fun.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="filer_read_operation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="leastpositivenumber" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="luminar technolab" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,32 +109,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/file_input_output" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/ethilcheyuu" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/file_input_output/filer_read_operation.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="firstrecursivechar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="luminar technolab" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/pythoncourse/my_dictionary" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/pythoncourse/my_dictionary/firstrecursivechar.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/ethilcheyuu/leastpositivenumber.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,7 +143,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="print_failed_program" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="nested_dic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="luminar technolab" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -163,11 +151,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/file_input_output" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/pythoncourse/my_dictionary" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/file_input_output/print_failed_program.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/pythoncourse/my_dictionary/nested_dic.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,20 +165,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.cricket" />
-      <item itemvalue="Python.file_read_operation_without_duplication" />
-      <item itemvalue="Python.filer_read_operation" />
-      <item itemvalue="Python.firstrecursivechar" />
       <item itemvalue="Python.main" />
-      <item itemvalue="Python.print_failed_program" />
+      <item itemvalue="Python.employee_fun" />
+      <item itemvalue="Python.basic" />
+      <item itemvalue="Python.leastpositivenumber" />
+      <item itemvalue="Python.nested_dic" />
+      <item itemvalue="Python.covid_analysis" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.cricket" />
-        <item itemvalue="Python.print_failed_program" />
-        <item itemvalue="Python.file_read_operation_without_duplication" />
-        <item itemvalue="Python.filer_read_operation" />
-        <item itemvalue="Python.firstrecursivechar" />
+        <item itemvalue="Python.covid_analysis" />
+        <item itemvalue="Python.basic" />
+        <item itemvalue="Python.nested_dic" />
+        <item itemvalue="Python.employee_fun" />
+        <item itemvalue="Python.leastpositivenumber" />
       </list>
     </recent_temporary>
   </component>
@@ -222,26 +210,46 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="14" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1606026898636" />
-    <state x="453" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606999000589">
+    <state x="453" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607321376841">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="453" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1606999000589" />
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1607001754077">
+    <state x="453" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1607321376841" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607061577512">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607001754077" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1607001754077">
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1607061577512" />
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1607351261719">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1607001754077" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1607001754077">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607351261719" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1607351261715">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1607001754077" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1607001754077">
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1607351261715" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1607351261715">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607001754077" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1607351261715" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1607351261715">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607351261715" />
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1607323700732">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607323700732" />
+    <state width="1345" height="223" key="GridCell.Tab.1.center" timestamp="1607323700717">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1607323700717" />
+    <state width="1345" height="223" key="GridCell.Tab.1.left" timestamp="1607323700717">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1607323700717" />
+    <state width="1345" height="223" key="GridCell.Tab.1.right" timestamp="1607323700717">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1607323700717" />
     <state x="184" y="9" key="SettingsEditor" timestamp="1606051184394">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
