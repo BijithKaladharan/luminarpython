@@ -12,4 +12,4 @@ for lines in f:
 def print_data(**num):
     for k,v in num.items():
         print(k,v)
-print_data=(id=10,s=3)
+print_data(id=10,s=3)
