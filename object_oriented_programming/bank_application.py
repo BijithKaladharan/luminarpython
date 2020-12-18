@@ -53,3 +53,9 @@ print(obj.acno) #accessing outside class
 
 #static variable(bank_name)---->efficient memory utilization
 #we can access using self./class_name.static variable name -->self.bank_name/bank.bank_name
+
+#different types of methods(self arg)
+#1.accessing instance method reference.method-->instance method
+
+#2.static method:
+#@staticmethod
