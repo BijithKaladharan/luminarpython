@@ -14,6 +14,19 @@
 #squares=[i**2  for i in first]
 #print(squares)
 
-first=[1,2,3,5,6,7]
-data=[i-1 if i<5 else i+1 for i in first]
-print(data)
+#first=[1,2,3,5,6,7]
+#data=[i-1 if i<5 else i+1 for i in first]
+#print(data)
+
+#lst=[1,2,3,4,5,6,7,8]
+
+#data=[i+1 if i>5 else i-1 if i<5 else 5 for i in lst]
+#print("output",data)
+
+matrix=[[1,2,3],[4,5,6],[7,8,9]]
+#1,2,3,4,5,6,7,8,9
+flat=[j for i in matrix for j in i]
+print(flat)
+     #for i in matrix:
+         #for j in i:
+             #print(j)
