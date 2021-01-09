@@ -11,10 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0ab1794-3c09-46c0-8201-b962c9bc49f8" name="Default Changelist" comment="">
-      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/.idea/misc.xml" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/Guiprogram/guiprogram1.py" afterDir="false" />
       <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/.idea/workspace.xml" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/ethilcheyuu/e.py" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/ethilcheyuu/e.py" afterDir="false" />
-      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/functionalprogramming/list_com.py" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/functionalprogramming/list_com.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +39,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.emailid_pgm">
-    <configuration name="ageexception" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.grid_system">
+    <configuration name="db_connect1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="luminar technolab" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -50,11 +48,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/exceptionhandling" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/pythontodatabase" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/exceptionhandling/ageexception.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/pythontodatabase/db_connect1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -63,7 +61,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="emailid_pgm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dbconnect" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="luminar technolab" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,11 +69,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/regularExpression" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/dbconnectpgm" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/regularExpression/emailid_pgm.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/dbconnectpgm/dbconnect.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,7 +82,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="emailid's" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="frame _pgm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="luminar technolab" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,11 +90,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/regularExpression" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/Guiprogram" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/regularExpression/emailid's.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/Guiprogram/frame _pgm.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exceptionhandling" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="grid_system" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="luminar technolab" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,11 +111,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/exceptionhandling" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/Guiprogram" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/exceptionhandling/exceptionhandling.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/Guiprogram/grid_system.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="guiprogram1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="luminar technolab" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/Guiprogram" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/Guiprogram/guiprogram1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,42 +166,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="vech" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="luminar technolab" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/ethilcheyuu" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_HOME_DIR$/jbr/bin/luminar technolab/ethilcheyuu/vech.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.main" />
-      <item itemvalue="Python.vech" />
-      <item itemvalue="Python.emailid's" />
-      <item itemvalue="Python.exceptionhandling" />
-      <item itemvalue="Python.ageexception" />
-      <item itemvalue="Python.emailid_pgm" />
+      <item itemvalue="Python.db_connect1" />
+      <item itemvalue="Python.dbconnect" />
+      <item itemvalue="Python.guiprogram1" />
+      <item itemvalue="Python.frame _pgm" />
+      <item itemvalue="Python.grid_system" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.emailid_pgm" />
-        <item itemvalue="Python.ageexception" />
-        <item itemvalue="Python.exceptionhandling" />
-        <item itemvalue="Python.emailid's" />
-        <item itemvalue="Python.vech" />
+        <item itemvalue="Python.grid_system" />
+        <item itemvalue="Python.frame _pgm" />
+        <item itemvalue="Python.guiprogram1" />
+        <item itemvalue="Python.dbconnect" />
+        <item itemvalue="Python.db_connect1" />
       </list>
     </recent_temporary>
   </component>
