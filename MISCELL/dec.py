@@ -1,0 +1,1 @@
+from Mypack.mymodule import *
