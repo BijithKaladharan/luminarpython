@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(124, green128, blue135);
+    background-image: url("bci.jpg");
+}
+h1{
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+#ind{
+    background-image: url("ind.png");
+    background-color: steelblue;
+    width: 48%;
+    border-style: solid;
+    border-color: tan;
+    border-width: 3px;
+}
+
+#aus{
+    background-image: url("aus.png");
+    background-color: rebeccapurple;
+    width: 48%;
+    border-style: solid;
+    border-color: tan;
+    border-width: 3px;
+}
+
+#eng{ 
+    background-image: url("engg.png");
+    background-color: rgb(184, 52, 173);
+    width: 48%;
+    border-style: solid;
+    border-color: tan;
+    border-width: 3px;
+}
+
+

@@ -1,0 +1,17 @@
+#one{
+    color: rgb(223, 25, 25);
+}
+#second{
+    
+    color: seagreen;
+}
+#third{
+    background-color: rgb(184, 214, 245);
+    border-color: saddlebrown;
+    color: seagreen;
+    border-style: inset;
+}
+#fourth{
+    
+    color: rgb(233, 25, 25);
+}
