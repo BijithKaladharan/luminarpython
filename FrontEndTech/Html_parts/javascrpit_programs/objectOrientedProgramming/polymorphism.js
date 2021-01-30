@@ -10,6 +10,7 @@
 
 // var obj=new mymaths()
 // obj.add(10,20);
+// obj.add();
 
 //method overriding
 class parent{
@@ -24,6 +25,3 @@ class child extend parent{
 }
 var c=new child()
 c.phone()
-
-var obj=new mymaths()
-obj.add(10,20);
